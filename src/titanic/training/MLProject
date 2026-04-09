@@ -1,5 +1,8 @@
 name: kto-titanic
 
+docker_env:
+  image: quay.io/nassimbenhamed/titanic/experiment
+  
 entry_points:
 
   main:
